@@ -21,7 +21,7 @@ Password Generator Webpage
 
 Link: https://jonnwijaya.github.io/password-generator/
 
-![Screenshot of the site](assets/images/screenshot.png)
+![Screenshot of the site](./Assets/images/screenshot.png)
 
 ## Credits
 
